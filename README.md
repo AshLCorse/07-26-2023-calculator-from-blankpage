@@ -1,5 +1,7 @@
-# 07-26-2023-calculator-from-blankpage
+# 07-26-2023-calculator-from-blank-page
  Coding a Calculator from a blank page
+
+ ATTEMPT 1! 
 
 MVP: interactive keypad with display, accurate solutions, and can do addition, subtraction, multiplication and division 
 
@@ -29,3 +31,4 @@ copy paste functions
 dark mode 
 
 //
+
