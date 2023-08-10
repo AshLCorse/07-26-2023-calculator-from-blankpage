@@ -1,5 +1,5 @@
 # 07-26-2023-calculator-from-blank-page
- Coding a Calculator from a blank page
+ Coding a Calculator from a youtube vid
 
  ATTEMPT 1! 
 
@@ -32,3 +32,4 @@ dark mode
 
 //
 
+Results: I followed along with a youtube tutorial from GreatStack, it made sense and met my MVP. 
