@@ -32,4 +32,4 @@ dark mode
 
 //
 
-Results: I followed along with a youtube tutorial from GreatStack, it made sense and met my MVP. 
+Results: I followed along with a youtube tutorial from GreatStack, the code makes sense to me and meets my MVP. 
