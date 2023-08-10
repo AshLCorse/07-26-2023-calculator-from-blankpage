@@ -33,3 +33,5 @@ dark mode
 //
 
 Results: I followed along with a youtube tutorial from GreatStack, the code makes sense to me and meets my MVP. 
+
+Next step: do some online courses for JS, then try to recreate this code. 
